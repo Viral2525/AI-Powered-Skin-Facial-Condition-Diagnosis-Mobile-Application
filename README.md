@@ -180,5 +180,5 @@ Please open issues or pull requests if you'd like to help improve the app!
 
 ## 📬 Contact
 
-For support or feedback, email **michaelmudimbu@gmail.com**
+For support or feedback, email **viralpatoliya92@gmail.com**
 
